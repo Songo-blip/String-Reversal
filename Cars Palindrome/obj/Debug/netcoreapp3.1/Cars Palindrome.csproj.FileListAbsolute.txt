@@ -1,0 +1,4 @@
+C:\Users\Sisipo\source\repos\Cars Palindrome\Cars Palindrome\obj\Debug\netcoreapp3.1\Cars Palindrome.csprojAssemblyReference.cache
+C:\Users\Sisipo\source\repos\Cars Palindrome\Cars Palindrome\obj\Debug\netcoreapp3.1\Cars Palindrome.AssemblyInfoInputs.cache
+C:\Users\Sisipo\source\repos\Cars Palindrome\Cars Palindrome\obj\Debug\netcoreapp3.1\Cars Palindrome.AssemblyInfo.cs
+C:\Users\Sisipo\source\repos\Cars Palindrome\Cars Palindrome\obj\Debug\netcoreapp3.1\Cars Palindrome.csproj.CoreCompileInputs.cache
